@@ -1,4 +1,4 @@
-package com.englesoft.cryptotracker.util
+package com.englesoft.cryptotracker.core.presentation.util
 
 import com.englesoft.cryptotracker.R
 

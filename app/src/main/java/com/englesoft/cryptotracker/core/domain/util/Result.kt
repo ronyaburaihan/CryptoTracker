@@ -1,4 +1,4 @@
-package com.englesoft.cryptotracker.util
+package com.englesoft.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 

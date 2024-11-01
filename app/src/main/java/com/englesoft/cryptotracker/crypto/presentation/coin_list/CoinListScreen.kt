@@ -1,4 +1,4 @@
-package com.englesoft.cryptotracker.crypto.presentation.coin_list.screens
+package com.englesoft.cryptotracker.crypto.presentation.coin_list
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -18,7 +18,6 @@ import androidx.compose.ui.tooling.preview.PreviewLightDark
 import androidx.compose.ui.unit.dp
 import com.englesoft.cryptotracker.crypto.presentation.coin_list.components.CoinListItem
 import com.englesoft.cryptotracker.crypto.presentation.coin_list.components.previewCoin
-import com.englesoft.cryptotracker.crypto.presentation.models.CoinListState
 import com.englesoft.cryptotracker.crypto.presentation.models.toCoinUi
 import com.englesoft.cryptotracker.ui.theme.CryptoTrackerTheme
 
